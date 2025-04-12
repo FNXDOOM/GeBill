@@ -156,4 +156,4 @@ The application includes comprehensive error handling for:
 
 ## Support
 
-For support, please [create an issue] or contact [your contact information].
+For support, please contant us [nikhilkumar66513@gmail.com].
