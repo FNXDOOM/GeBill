@@ -154,10 +154,6 @@ The application includes comprehensive error handling for:
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-[Specify your license here]
-
 ## Support
 
 For support, please [create an issue] or contact [your contact information].
